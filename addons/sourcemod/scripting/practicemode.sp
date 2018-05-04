@@ -5,7 +5,7 @@ public Plugin myinfo =
 {
 	name = "practice mode",
 	author = "Flowing",
-	description = "practice mode for sovserver",
+	description = "practice mode",
 	version = "0.1b",
 	url = "https://lo3.jp"
 };
