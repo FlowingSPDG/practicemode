@@ -1,4 +1,6 @@
-# practicemode
+# THIS PROJECT IS NO LONGER MAINTAINED!!  
+# USE splewis's practice mode insted of this   
+## practicemode
 CSGO simple Practice mode
 
 ### Required
